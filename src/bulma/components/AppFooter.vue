@@ -17,29 +17,17 @@
                             </span>
                             <a href="https://vuejs.org"
                                 target="_blank">
-                                <img src="/images/vue-badge.png"
-                                    :alt="i18n('Made with Vue')"
-                                    width="28"
-                                    height="28">
                             </a>
                             +
                             <a href="https://laravel.com"
                                 class="ml-1"
                                 target="_blank">
-                                <img src="/images/laravel-badge.png"
-                                    :alt="i18n('Made with Laravel')"
-                                    width="28"
-                                    height="28">
                             </a>
                             <span class="ml-1">
                                 +
                             </span>
                             <a href="https://bulma.io"
                                 target="_blank">
-                                <img src="/images/bulma.svg"
-                                    :alt="i18n('Made with Bulma')"
-                                    width="28"
-                                    height="28">
                             </a>
                         </div>
                     </template>
@@ -47,17 +35,11 @@
             </div>
             <div class="level">
                 <div class="level-item">
-                    <strong>{{ i18n('Backed by') }}:</strong>
-                    <a href="https://earthlink.ro"
-                        target="_blank">
-                        <figure class="image earthlink">
-                          <img src="/images/earthlink.svg">
-                        </figure>
                     </a>
                 </div>
             </div>
             <div>
-                <a href="https://github.com/laravel-enso/enso"
+                <a href="https://github.com/laravel-liberu"
                     target="_blank">
                     <span class="icon">
                         <fa :icon="['fab', 'github']"/>
