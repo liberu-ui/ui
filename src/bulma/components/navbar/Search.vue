@@ -57,12 +57,12 @@
 </template>
 
 <script>
-import { Fade } from '@enso-ui/transitions';
+import { Fade } from '@liberu-ui/transitions';
 import { FontAwesomeIcon as Fa } from '@fortawesome/vue-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faEye, faPencilAlt, faListUl } from '@fortawesome/free-solid-svg-icons';
-import { EnsoTypeahead } from '@enso-ui/typeahead/bulma';
-import { clickOutside } from '@enso-ui/directives';
+import { EnsoTypeahead } from '@liberu-ui/typeahead/bulma';
+import { clickOutside } from '@liberu-ui/directives';
 import CoreSearch from '../../../core/components/navbar/Search.vue';
 
 library.add(faEye, faPencilAlt, faListUl);

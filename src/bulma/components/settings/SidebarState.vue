@@ -20,7 +20,7 @@
 </template>
 
 <script>
-import VueSwitch from '@enso-ui/switch/bulma';
+import VueSwitch from '@liberu-ui/switch/bulma';
 import CoreSidebarState from '../../../core/components/settings/SidebarState.vue';
 
 export default {

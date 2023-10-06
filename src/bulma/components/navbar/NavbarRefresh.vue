@@ -10,8 +10,8 @@
 </template>
 
 <script>
-import { Slide } from '@enso-ui/transitions';
-import PullToRefresh from '@enso-ui/pull-to-refresh';
+import { Slide } from '@liberu-ui/transitions';
+import PullToRefresh from '@liberu-ui/pull-to-refresh';
 import Navbar from './Navbar.vue';
 
 export default {

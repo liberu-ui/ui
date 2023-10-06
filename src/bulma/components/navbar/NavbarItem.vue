@@ -28,8 +28,8 @@
 <script>
 import { mapState } from 'vuex';
 import { FontAwesomeIcon as Fa } from '@fortawesome/vue-fontawesome';
-import { clickOutside } from '@enso-ui/directives';
-import Loader from '@enso-ui/loader/bulma';
+import { clickOutside } from '@liberu-ui/directives';
+import Loader from '@liberu-ui/loader/bulma';
 
 export default {
     name: 'NavbarItem',

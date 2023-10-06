@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import Menus from '@enso-ui/menus/src/bulma/components/menu/Menus.vue';
+import Menus from '@liberu-ui/menus/src/bulma/components/menu/Menus.vue';
 import CoreSidebar from '../../../core/components/menu/Sidebar.vue';
 import VueAside from '../VueAside.vue';
 
@@ -30,7 +30,7 @@ export default {
 </script>
 
 <style lang="scss">
-    @import '@enso-ui/themes/bulma/variables';
+    @import '@liberu-ui/themes/bulma/variables';
 
     .aside.sidebar {
         overflow-y: auto;
