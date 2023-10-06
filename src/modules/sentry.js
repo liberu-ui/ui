@@ -1,6 +1,6 @@
 import * as SentryLib from "@sentry/vue";
 import { Integrations } from "@sentry/tracing";
-import reportable from '@enso-ui/sentry';
+import reportable from '@liberu-ui/sentry';
 
 class Sentry {
     constructor(app, router) {

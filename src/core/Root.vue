@@ -1,8 +1,8 @@
 <script>
 import { mapState, mapActions, mapGetters } from 'vuex';
 import { isNavigationFailure } from 'vue-router';
-import RouteMapper from '@enso-ui/route-mapper';
-import toastr from '@enso-ui/toastr';
+import RouteMapper from '@liberu-ui/route-mapper';
+import toastr from '@liberu-ui/toastr';
 import http from 'axios';
 import i18n from '../modules/plugins/i18n';
 import ErrorHandler from './services/errorHandler';

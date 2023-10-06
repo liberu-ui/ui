@@ -1,4 +1,4 @@
-import RouteMapper from '@enso-ui/route-mapper';
+import RouteMapper from '@liberu-ui/route-mapper';
 import store from '../../core/services/store';
 
 export default (name, params, absolute) => {

@@ -44,9 +44,9 @@
 
 <script>
 import { mapState } from 'vuex';
-import { Slide } from '@enso-ui/transitions';
-import ScrollToTop from '@enso-ui/scroll-to-top/bulma';
-import Bookmarks from '@enso-ui/bookmarks/src/bulma/components/Bookmarks.vue';
+import { Slide } from '@liberu-ui/transitions';
+import ScrollToTop from '@liberu-ui/scroll-to-top/bulma';
+import Bookmarks from '@liberu-ui/bookmarks/src/bulma/components/Bookmarks.vue';
 import CoreDefault from '../../core/layouts/Default.vue';
 import NavbarRefresh from '../components/navbar/NavbarRefresh.vue';
 import Sidebar from '../components/menu/Sidebar.vue';
@@ -78,7 +78,7 @@ export default {
 </script>
 
 <style lang="scss">
-    @import '@enso-ui/themes/bulma/variables';
+    @import '@liberu-ui/themes/bulma/variables';
 
     .app-main {
         display: flex;

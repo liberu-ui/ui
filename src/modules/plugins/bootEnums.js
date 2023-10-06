@@ -1,4 +1,4 @@
-import Enum from '@enso-ui/enums';
+import Enum from '@liberu-ui/enums';
 
 const bootEnums = (enums, i18n) => {
     const obj = {};

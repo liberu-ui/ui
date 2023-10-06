@@ -30,9 +30,9 @@
 </template>
 
 <script>
-import { Fade } from '@enso-ui/transitions';
-import { focus } from '@enso-ui/directives';
-import Loader from '@enso-ui/loader/bulma';
+import { Fade } from '@liberu-ui/transitions';
+import { focus } from '@liberu-ui/directives';
+import Loader from '@liberu-ui/loader/bulma';
 import CoreHome from '../../core/layouts/Home.vue';
 
 export default {

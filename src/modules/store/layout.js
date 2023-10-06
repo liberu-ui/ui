@@ -1,7 +1,7 @@
 import storeImporter from '../importers/storeImporter';
 import themeImporter from '../importers/themeImporter';
 
-const themes = themeImporter(require.context('@enso-ui/themes/bulma', false, /.*\.lazy\.scss$/));
+const themes = themeImporter(require.context('@liberu-ui/themes/bulma', false, /.*\.lazy\.scss$/));
 
 export const modules = storeImporter(require.context('./layout', false, /.*\.js$/));
 

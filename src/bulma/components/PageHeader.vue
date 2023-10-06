@@ -24,7 +24,7 @@
 </template>
 
 <script>
-import { Fade } from '@enso-ui/transitions';
+import { Fade } from '@liberu-ui/transitions';
 import CorePageHeader from '../../core/components/PageHeader.vue';
 import Breadcrumbs from './Breadcrumbs.vue';
 

@@ -18,7 +18,7 @@
 </template>
 
 <script>
-import { Fade } from '@enso-ui/transitions';
+import { Fade } from '@liberu-ui/transitions';
 
 export default {
     name: 'MainRouter',

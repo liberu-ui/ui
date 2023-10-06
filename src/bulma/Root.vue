@@ -13,8 +13,8 @@
 </template>
 
 <script>
-import { Fade } from '@enso-ui/transitions';
-import Auth from '@enso-ui/auth/src/bulma/layouts/Auth.vue';
+import { Fade } from '@liberu-ui/transitions';
+import Auth from '@liberu-ui/auth/src/bulma/layouts/Auth.vue';
 import BaseRoot from '../core/Root.vue';
 import DocumentTitle from '../core/components/DocumentTitle.vue';
 import Loader from './components/Loader.vue';
