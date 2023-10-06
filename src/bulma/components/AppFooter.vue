@@ -35,7 +35,6 @@
             </div>
             <div class="level">
                 <div class="level-item">
-                    </a>
                 </div>
             </div>
             <div>
